@@ -6,8 +6,8 @@
   <link rel="icon" type="img/png" href="gambar/icon.png" sizes="16x16" />
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Belajar PHP">
-  <meta name="keywords" content="{tulis nim anda disini}">
-  <meta name="author" content="{tulis nama anda disini}">
+  <meta name="keywords" content="{233307055}">
+  <meta name="author" content="{Nailah Adyan Nurahmah}">
 </head>
 <body>
 
