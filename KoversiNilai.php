@@ -16,8 +16,7 @@ function konversiNilai($nilai) {
     }
 }
 
-// Contoh penggunaan fungsi
-$nilaiAngka = 85; // Ganti dengan nilai angka yang ingin dikonversi
+$nilaiAngka = 85; 
 $nilaiHuruf = konversiNilai($nilaiAngka);
 echo "Nilai huruf untuk angka $nilaiAngka adalah $nilaiHuruf";
 ?>
